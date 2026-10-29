@@ -1,0 +1,1 @@
+O Portal Halloween é um projeto educacional desenvolvido para apresentar filmes e séries de terror, suspense e mistério. O objetivo é criar um pequeno portal temático para os fãs de histórias assustadoras.
